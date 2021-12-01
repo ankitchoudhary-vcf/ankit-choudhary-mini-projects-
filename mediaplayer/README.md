@@ -14,7 +14,3 @@ For video playback you can pop out an external video viewer window
 which floats on top.
 
 ![Mediaplayer](screenshot-mediaplayer2.jpg)
-
-> If you think this app is neat and want to learn more about
-PyQt in general, take a look at my [free PyQt tutorials](https://www.learnpyqt.com)
-which cover everything you need to know to start building your own applications with PyQt.
